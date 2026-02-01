@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "AlternateBase": "#ff0000",
+    "Base": "#171717",
+    "BrightText": "#ff1111",
+    "Button": "#3c3c3c",
+    "ButtonText": "#ffffff",
+    "Highlight": "#96db59",
+    "HighlightedText": "#000000",
+    "Link": "#3291cc",
+    "Text": "#f0f0f0",
+    "ToolTipBase": "#c0c0c0",
+    "ToolTipText": "#000000",
+    "Window": "#313131",
+    "WindowText": "#ffffff",
+    "fadeAmount": 0.5,
+    "fadeColor": "#000000"
+  },
+  "name": "Fluent 2",
+  "widgets": "Fusion"
+}

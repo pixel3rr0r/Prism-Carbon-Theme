@@ -1,9 +1,9 @@
 {
   "colors": {
-    "AlternateBase": "#ff0000",
-    "Base": "#171717",
-    "BrightText": "#ff1111",
-    "Button": "#3c3c3c",
+    "AlternateBase": "#080808",
+    "Base": "#121416",
+    "BrightText": "#ffffff",
+    "Button": "#1a1c1e",
     "ButtonText": "#ffffff",
     "Highlight": "#96db59",
     "HighlightedText": "#000000",
@@ -16,6 +16,6 @@
     "fadeAmount": 0.5,
     "fadeColor": "#000000"
   },
-  "name": "Fluent 2",
+  "name": "Carbon",
   "widgets": "Fusion"
 }
